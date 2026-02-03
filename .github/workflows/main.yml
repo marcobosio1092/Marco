@@ -37,3 +37,4 @@ jobs:
         with:
           name: ModuloElastico-mac
           path: dist/*.app
+        
